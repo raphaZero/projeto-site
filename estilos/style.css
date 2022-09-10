@@ -1,16 +1,30 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 16px;
+    font-size: 20px;
 }
 
 body{
-    background-color: rgba(13, 13, 223, 0.904);
+    background-color: rgba(255, 255, 255, 0.904);
 }
 
 main{
-    background-color: white;
+    background-color: rgba(10, 27, 92, 0.658);
     width: 500px;
     margin: auto;
-    padding: 10px;
+    padding: 15px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.801);
+}
+h1, h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    color: rgb(255, 255, 255);
+    
+}
+
+a{
+    color: rgb(30, 255, 0);
+}
+
+img.lado{
+    float: right;
 }
